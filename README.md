@@ -34,11 +34,7 @@ Once you've done that, enter the folder and run `recolor.sh`:
 
 ### Add your own colorschemes:
 
-- Take the included catppuccin palette file
-- Change the colors to your liking
-- Push it under a different name to `patched-themes`
-- Run the installer
-- Enjoy!
+Check [this](https://hackmd.io/@TGRush/elementaryRecolor-Custom-Color-Schemes) HackMD note I wrote to explain how exactly you can make a Color Scheme.
 
 ### Reverting
 
