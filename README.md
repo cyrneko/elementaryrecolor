@@ -29,6 +29,7 @@ Once you've done that, enter the folder and run `recolor.sh`:
 - Catppuccin Mocha
 - Catppuccin Latte (somewhat broken)
 	- Simply switch to Light Mode in settings with Catppuccin applied
+- Pure Black (Catppuccin accents)
 - Custom <span style="font-size:12px;color:grey;">(provide custom palette.scss)</span>
 
 ### Add your own colorschemes:
