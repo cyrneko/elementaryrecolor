@@ -1,3 +1,9 @@
+# I have moved to Codeberg!
+## Check out this repository on the following link: https://codeberg.org/TGRush/elementaryRecolor
+
+Old Readme:
+
+<details>
 # elementaryRecolor
 ## Colorschemes at their finest!
 ##### Made with :heart: by TGRush
@@ -63,3 +69,4 @@ subject to the following restrictions:
 
   3. This notice may not be removed or altered from any source distribution.
 ```
+</details>
